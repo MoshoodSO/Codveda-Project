@@ -9,7 +9,7 @@ During my internship at Codveda Technologies, I worked through multiple levels o
 ## 🗂️ Repository Structure
 
 
-
+```
 ├── data/                              # Data files used in the project
 ├── output/                            # Outputs such as charts and results
 ├── Level1-Basic_Task1.py              # First basic Python task
@@ -22,7 +22,7 @@ During my internship at Codveda Technologies, I worked through multiple levels o
 ├── Level3-Advanced_Task2.ipynb
 ├── Level3-Advanced_Task3.ipynb
 └── README.md                         # Project description (this file)
-
+```
 
 ## 📚 What’s Inside
 
