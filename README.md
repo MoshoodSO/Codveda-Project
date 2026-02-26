@@ -78,5 +78,5 @@ This project is a personal internship showcase. If you’d like to suggest impro
 ## 📫 Contact
 
 If you want to reach out, feel free to connect via LinkedIn or email!
-LinkedIn:  [Shoyombo Moshood](https://linkedin.com/in/shoyombo-moshood-582003126/)
-Email:  [Shoyombo Moshood](mailto:shoyombomoshood1@gmail.com)
+- LinkedIn:  [Shoyombo Moshood](https://linkedin.com/in/shoyombo-moshood-582003126/)
+- Email:  [Shoyombo Moshood](mailto:shoyombomoshood1@gmail.com)
