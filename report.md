@@ -24,45 +24,42 @@ These tasks focused on strengthening core Python fundamentals.
 ---
 
 ## ✅ Level1-Basic_Task1.py  
-**Objective:** Introduction to core Python programming concepts.  
+**Description:** Collect data from a website using web scraping techniques  
 
 **What It Covers:**
-- Variables and data types  
-- User input handling  
-- Conditional statements (if/else)  
-- Loops (for/while)  
-- Basic arithmetic and logical operations  
+- Using BeautifulSoup and requests libraries to scrape data from web pages.
+- Storing the scraped data in a structured format (e.g., CSV, JSON).
+- Handling common challenges such as pagination and dynamic content 
 
 **Purpose:**  
-To build a solid foundation in Python syntax and control flow logic.
+To learn understand data collection and web scraping.
 
 ---
 
 ## ✅ Level1-Basic_Task2.ipynb  
-**Objective:** Basic data operations using Python.  
+**Description:** Clean and preprocess a raw dataset to make it suitable for analysis.  
 
 **What It Covers:**
-- Working with lists and dictionaries  
-- Simple data processing  
-- Basic function creation  
-- Input/output operations  
+- Handling missing data (e.g., imputation, removal).
+- Detecting and removing outliers from data.
+- Converting categorical variables into numerical format using one-hot encoding or label encoding.
+- Normalising or standardising numerical data.
 
 **Purpose:**  
-To transition from simple scripting to structured problem-solving using Python data structures.
+To put data cleaning and preprocessing into practice.
 
 ---
 
 ## ✅ Level1-Basic_Task3.ipynb  
-**Objective:** File handling and structured data manipulation.  
+**Description:** Perform exploratory data analysis to understand the underlying structure and trends in the data.  
 
 **What It Covers:**
-- Reading from files  
-- Writing to files  
-- Basic data cleaning  
-- Handling structured datasets  
+- Computing some summary statistics like mean, median, variance, etc.
+- Visualising the data using suitable visualisation like histograms, scatter plots, and box plots.
+- Identifying correlations between numerical features using a correlation matrix.
 
 **Purpose:**  
-To understand how Python interacts with external data sources.
+To understand exploratory data analysis (EDA).
 
 ---
 
@@ -73,47 +70,49 @@ These tasks introduced data analysis and more structured programming concepts.
 ---
 
 ## 📊 Level2-Intermediate_Task1.ipynb  
-**Objective:** Data loading and preprocessing.  
+**Description:** Build and evaluate a regression model to predict a continuous variable.
 
 **What It Covers:**
-- Importing datasets  
-- Data inspection  
-- Handling missing values  
-- Data transformation  
+- Spliting the dataset into training and testing sets.
+- Training a linear regression model using scikit-learn.
+- Evaluating the model using performance metrics like mean squared error (MSE) and R-squared.
+- Comparing and experimenting with multiple models like Decision Trees, Random Forest, etc. and comparing performance also.
 
 **Purpose:**  
-To understand how to prepare raw data for analysis.
+To understand how to perform predictive modelling and selecting the best model to use.
 
 ---
 
 ## 📊 Level2-Intermediate_Task2.ipynb  
-**Objective:** Exploratory Data Analysis (EDA).  
+**Description:** Build a decision tree classifier to predict a categorical outcome.
 
 **What It Covers:**
-- Statistical summaries  
-- Data grouping and aggregation  
-- Identifying patterns and trends  
-- Basic visualization  
+- Preprocessing the data which involves handling categorical features, feature scaling, etc.
+- Training and evaluating the logistic regression model.
+- Using metrics such as accuracy, precision, recall, and the ROC curve for evaluation.
+- Comparing logistic regression with other classifiers like
+Random Forest or SVM.
 
 **Purpose:**  
-To extract meaningful insights from datasets.
+To undering classification using Logistic regression and also determine the best model by comparison.
 
 ---
 
 ## 📊 Level2-Intermediate_Task3.ipynb  
-**Objective:** Data visualization and reporting.  
+**Description:** Implement K-Means clustering to group data points into clusters without labels.
 
 **What It Covers:**
-- Creating charts and plots  
-- Interpreting visual outputs  
-- Presenting analytical findings  
+- Applying K-Means clustering to the dataset.
+- Using the elbow method or silhouette score to determine the optimal number of clusters.
+- Visualising the clusters in 2D space using PCA or t-SNE for dimensionality reduction.
 
-**Tools Likely Used:**
-- Pandas  
-- Matplotlib / Seaborn  
+**Tools Used:**
+- Pandas
+- Scikit-learn
+- Matplotlib / Seaborn
 
 **Purpose:**  
-To communicate data-driven insights effectively.
+To understand clustering and details knowledge of knowing the numbers of optimal clusters in the dataset.
 
 ---
 
