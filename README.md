@@ -28,22 +28,23 @@ During my internship at Codveda Technologies, I worked through multiple levels o
 ## 📚 What’s Inside
 
 ### 🎯 Level 1 — Basic Tasks
-These tasks focus on beginner-level Python programming — fundamentals like variables, control flows, data types, basic file handling, and problem-solving exercises.
+These tasks focus on beginner-level Python programming — fundamentals like Data Collection, Web Scraping, Data Cleaning, Preprocessing, and Exploratory Data Analysis (EDA).
 
 ### 📈 Level 2 — Intermediate Tasks
-Here, you explore data handling using Python libraries and work on slightly more complex logic involving data analysis and structured outputs.
+Here, I explore Predictive Modeling (Regression) using Python libraries like scikit-learn and work on slightly more complex logic involving data analysis, Classification with Logistic Regression and Clustering (Unsupervised Learning).
 
 ### 🧠 Level 3 — Advanced Tasks
-Advanced notebooks delve deeper into data processing, real-world use cases, and possibly database or visualization tasks. These helped bridge theory with practical implementation.
+Advanced notebooks delve deeper into Time Series Analysis, Natural Language Processing (NLP) (Text Classification), and Neural Networks with TensorFlow/Keras; using libraries like statsmodels, nltk, TensorFlow, just to mention a few.
 
 ## 🛠️ Technologies Used
 
 - Python  
 - Jupyter Notebook  
 - Pandas, NumPy (for data manipulation)  
-- Matplotlib / Seaborn (if used for visualizations)  
+- Matplotlib / Seaborn (if used for visualizations)
+- BeautifulSoup, Natural Language toolkit (nltk), scikit-learn, statsmodels, TensorFlow
 
-> 🚀 Most of the work is written in **Jupyter Notebooks**, with a few Python scripts.
+> 🚀 Most of the work is written in **Jupyter Notebooks** to help in visualization, with a few Python scripts.
 
 ## 📌 How to Run
 
