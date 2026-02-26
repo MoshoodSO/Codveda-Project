@@ -19,7 +19,7 @@ The goal was to strengthen programming fundamentals, data handling skills, and a
 
 # 🔹 Level 1 — Basic Tasks
 
-These tasks focused on strengthening core Python fundamentals.
+These tasks focus on beginner-level Python programming — fundamentals like Data Collection, Web Scraping, Data Cleaning, Preprocessing, and Exploratory Data Analysis (EDA).
 
 ---
 
@@ -65,7 +65,7 @@ To understand exploratory data analysis (EDA).
 
 # 🔹 Level 2 — Intermediate Tasks
 
-These tasks introduced data analysis and more structured programming concepts.
+These tasks explore Predictive Modeling (Regression) using Python libraries like scikit-learn and work on slightly more complex logic involving data analysis, Classification with Logistic Regression and Clustering (Unsupervised Learning).
 
 ---
 
@@ -118,59 +118,63 @@ To understand clustering and details knowledge of knowing the numbers of optimal
 
 # 🔹 Level 3 — Advanced Tasks
 
-These tasks required deeper analytical thinking and structured problem-solving.
+These tasks delve deeper into Time Series Analysis, Natural Language Processing (NLP) (Text Classification), and Neural Networks with TensorFlow/Keras; using libraries like statsmodels, nltk, TensorFlow, just to mention a few.
 
 ---
 
 ## 🧠 Level3-Advanced_Task1.ipynb  
-**Objective:** Complex data manipulation and logic building.  
+**Description:** Analyze and model time-series data to forecast future values.  
 
 **What It Covers:**
-- Advanced filtering techniques  
-- Multi-step data transformation  
-- Combining multiple datasets  
+- Ploting and decomposing the time series into trend, seasonality, and residual components.
+- Implementing moving average and exponential smoothing techniques.
+- Building a SARIMA model for forecasting.
+- Evaluating the model using metrics such as RMSE and visualize the forecast.
 
 **Purpose:**  
-To simulate real-world data workflows.
+To simulate and analyse a time series data.
 
 ---
 
 ## 🧠 Level3-Advanced_Task2.ipynb  
-**Objective:** Advanced analysis and insight generation.  
+**Description:** Classify text data into categories like spam vs. non-spam, sentiment analysis.
 
 **What It Covers:**
-- Deeper statistical exploration  
-- Pattern recognition  
-- Analytical conclusions  
+- Preprocessing text data like tokenization, removing stopwords, stemming/lemmatization, etc.
+- Converting text into numerical representation using TF-IDF or Word2Vec.
+- Training a classification model (e.g., Naive Bayes, Logistic Regression) on the processed text.
+- Evaluating the model using precision, recall, and F1-score.
 
 **Purpose:**  
-To move from data handling to decision-support analysis.
+To sentiment analysis on text so as to classify text into categories.
 
 ---
 
 ## 🧠 Level3-Advanced_Task3.ipynb  
-**Objective:** Full analytical workflow.  
+**Description:** Build and train a simple feed-forward neural network to classify images or structured data.
 
 **What It Covers:**
-- Data loading  
-- Cleaning  
-- Analysis  
-- Visualization  
-- Conclusion  
+- Loading a dataset (e.g., MNIST digits or a structured dataset) and preprocess it.
+- Designing a neural network architecture using TensorFlow or Keras.
+- Training the model using backpropagation and evaluate it using accuracy and loss curves.
+- Tuning hyperparameters like learning rate, batch size; to
+improve performance.
 
 **Purpose:**  
-To demonstrate end-to-end project execution skills.
+To demonstrate neural network training to classify images and structured data.
 
 ---
 
 # 🛠 Technologies Used
 
-- Python  
+- Python, NumPy  
 - Jupyter Notebook  
 - Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
+- Matplotlib / Seaborn
+- BeautifulSoup, requests
+- Natural Language toolkit (nltk)
+- scikit-learn, statsmodels
+- TensorFlow / Keras
 
 ---
 
@@ -186,11 +190,14 @@ Platform: GitHub
 # 🎯 Skills Demonstrated
 
 - Python programming fundamentals  
-- Data cleaning and preprocessing  
+- Data collection, cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
-- Data visualization  
-- Logical thinking and structured problem-solving  
-- End-to-end analytical workflow development  
+- Data visualization
+- Predictive Modeling
+- Classification, Clustering and Regression
+- Time Series Analysis
+- Sentiment analysis
+- Image classification
 
 ---
 
