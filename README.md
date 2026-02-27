@@ -65,7 +65,6 @@ Advanced notebooks delve deeper into Time Series Analysis, Natural Language Proc
    pip install -r requirements.txt
    ```
 
-   *Note: Create a `requirements.txt` file with libraries like pandas and matplotlib if not already included.*
 4. **Open notebooks:**
 
    ```bash
