@@ -22,7 +22,7 @@ During my internship at Codveda Technologies, I worked through multiple levels o
 ├── Level3-Advanced_Task2.ipynb
 ├── Level3-Advanced_Task3.ipynb
 ├── report.md                         # Summary/overview of the projects
-├── requirements.txt
+├── requirements.txt                  # requirements for execution
 └── README.md                         # Project description (this file)
 ```
 
