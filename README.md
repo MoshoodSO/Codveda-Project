@@ -6,6 +6,10 @@ This repository showcases the projects I completed during my **one-month interns
 
 During my internship at Codveda Technologies, I worked through multiple levels of data tasks — starting from basic exercises and progressing to intermediate and advanced tasks. These projects helped me solidify my understanding of Python, data manipulation, visualization, and problem-solving in real scenarios.
 
+## Brief Summary of the Project
+
+Here is a brief of the project in the markdown file: [report.md](https://github.com/MoshoodSO/Codveda-Project/blob/main/report.md)
+
 ## 🗂️ Repository Structure
 
 
