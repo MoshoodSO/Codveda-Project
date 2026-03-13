@@ -19,7 +19,7 @@ Here is a brief of the project in the markdown file: [report.md](https://github.
 ├── Level1-Basic_Task1.py              # First basic Python task
 ├── Level1-Basic_Task2.ipynb           # Basic data analysis with notebooks
 ├── Level1-Basic_Task3.ipynb
-├── Level2-Intermediate_Task1.ipynb
+├── Level2-Intermediate_Task1.ipynb    # Intermdiate basic Python task
 ├── Level2-Intermediate_Task2.ipynb
 ├── Level2-Intermediate_Task3.ipynb
 ├── Level3-Advanced_Task1.ipynb
@@ -38,7 +38,7 @@ These tasks focus on beginner-level Python programming — fundamentals like Dat
 ### 📈 Level 2 — Intermediate Tasks
 Here, I explore Predictive Modeling (Regression) using Python libraries like scikit-learn and work on slightly more complex logic involving data analysis, Classification with Logistic Regression and Clustering (Unsupervised Learning).
 
-### 🧠 Level 3 — Advanced Tasks
+### 🧠 Level 3 — Advanced Task
 Advanced notebooks delve deeper into Time Series Analysis, Natural Language Processing (NLP) (Text Classification), and Neural Networks with TensorFlow/Keras; using libraries like statsmodels, nltk, TensorFlow, just to mention a few.
 
 ## 🛠️ Technologies Used
