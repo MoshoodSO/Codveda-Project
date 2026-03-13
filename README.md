@@ -19,7 +19,7 @@ Here is a brief of the project in the markdown file: [report.md](https://github.
 ├── Level1-Basic_Task1.py              # First basic Python task
 ├── Level1-Basic_Task2.ipynb           # Basic data analysis with notebooks
 ├── Level1-Basic_Task3.ipynb
-├── Level2-Intermediate_Task1.ipynb    # Intermdiate basic Python task
+├── Level2-Intermediate_Task1.ipynb    # Intermdiate Python task
 ├── Level2-Intermediate_Task2.ipynb
 ├── Level2-Intermediate_Task3.ipynb
 ├── Level3-Advanced_Task1.ipynb
